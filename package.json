@@ -1,0 +1,22 @@
+{
+  "name": "vue-components-loader",
+  "version": "1.0.0",
+  "author": "G8011国道马道长",
+  "license": "ISC",
+  "description": "后门，懂得都懂",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^14.18.0 || >=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Venjier/vue-compoents-loader.git"
+  },
+  "keywords": [
+    "后门"
+  ]
+}
